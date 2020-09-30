@@ -1,4 +1,5 @@
-# I'm Asabeneh Yeatayeh  
+# Hi 👋 !
+## I'm Asabeneh Yeatayeh
 
 <div>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
@@ -10,7 +11,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/asabeneh?style=social">
   <div>
 
-I am an educator, programmer, fullstack developer, motivator, content creater and  data analyst.
+I am an educator, programmer, fullstack developer, motivator, content creater and data analyst.
 
 I teach:
 
@@ -24,7 +25,13 @@ I teach:
 - Gatsby
 - MongoDB
 - Python
-- D3.js  
+- D3.js
+
+## 30 Days Of React Challenge
+
+I love react and  teaching. Now, I like to teach it. Let's learn react together for a month. I would like to ask you to join this challenge and take your JavaScript and React to the second level.
+
+[<img align="right" width="100%"  src="./images/30DaysOfReact_banner.jpg" />](https://github.com/Asabeneh/30-Days-Of-React)
 
 ## Github
 
