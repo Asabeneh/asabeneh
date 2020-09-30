@@ -9,9 +9,7 @@
   <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/asabeneh?style=social">
   <div>
-
 <br />
 
 I am an _educator_, _programmer_, _fullstack developer_, _motivator_, _content creater_ and _data analyst_.
@@ -57,7 +55,6 @@ I love _react_. Now, I like to teach _React_ to a global audience. I believe you
 
 [Python for Everyone](https://github.com/Asabeneh/Python-for-Everyone) <br /><img alt="GitHub stars" src="https://img.shields.io/github/stars/asabeneh/Python-for-Everyone?style=social"> -->
 
-
 <br>
 
 ## Tech Stacks
@@ -70,4 +67,4 @@ I love _react_. Now, I like to teach _React_ to a global audience. I believe you
 ---
 
 <small> _I am a lifelong learner and I love teaching and inspiring people_. </small>
-<small>🌱 Educator 💻 Programmer 🌐 Developer 🔥 Motivator 📘 Content creator 📈 Data Analyst</small>
+
