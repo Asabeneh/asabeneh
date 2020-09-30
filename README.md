@@ -1,4 +1,5 @@
 # Hi 👋 !
+
 ## I'm Asabeneh Yeatayeh
 
 <div>
@@ -11,9 +12,10 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/asabeneh?style=social">
   <div>
 
-I am an educator, programmer, fullstack developer, motivator, content creater and data analyst.
+<br />
 
-I teach:
+I am an _educator_, _programmer_, _fullstack developer_, _motivator_, _content creater_ and _data analyst_.
+Technologies which I teach and use:
 
 - HTML
 - CSS
@@ -29,11 +31,13 @@ I teach:
 
 ## 30 Days Of React Challenge
 
-I love *react*. Now, I like to teach *React* to a global audience. I believe you will get everything you need to use and work with react. Let's learn *React* together for 30 days. I would like to ask you to join this challenge and take your JavaScript and React to the second level.
+I love _react_. Now, I like to teach _React_ to a global audience. I believe you will get everything you need to use and work with _React_. Let's learn _React_ together for 30 days. I would like to ask you to join this challenge and take your _JavaScript_ and _React_ to the second level.
 
 [<img align="right" width="100%"  src="./images/30DaysOfReact_banner.jpg" />](https://github.com/Asabeneh/30-Days-Of-React)
 
-## Github
+<br>
+
+<!-- ## Github
 
 [<img src = "https://github-readme-stats.vercel.app/api?username=asabeneh&show_icons=true&title_color=blue&icon_color=79ff97&text_color=9f9f9f&bg_color=ffffff">](https://github.com/Asabeneh)
 
@@ -51,7 +55,10 @@ I love *react*. Now, I like to teach *React* to a global audience. I believe you
 
 [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)<br /><img alt="GitHub stars" src="https://img.shields.io/github/stars/asabeneh/30-Days-Of-Python?style=social">
 
-[Python for Everyone](https://github.com/Asabeneh/Python-for-Everyone) <br /><img alt="GitHub stars" src="https://img.shields.io/github/stars/asabeneh/Python-for-Everyone?style=social">
+[Python for Everyone](https://github.com/Asabeneh/Python-for-Everyone) <br /><img alt="GitHub stars" src="https://img.shields.io/github/stars/asabeneh/Python-for-Everyone?style=social"> -->
+
+
+<br>
 
 ## Tech Stacks
 
@@ -62,4 +69,5 @@ I love *react*. Now, I like to teach *React* to a global audience. I believe you
 
 ---
 
+<small> _I am a lifelong learner and I love teaching and inspiring people_. </small>
 <small>🌱 Educator 💻 Programmer 🌐 Developer 🔥 Motivator 📘 Content creator 📈 Data Analyst</small>
