@@ -29,7 +29,7 @@ I teach:
 
 ## 30 Days Of React Challenge
 
-I love react and  teaching. Now, I like to teach it. Let's learn react together for a month. I would like to ask you to join this challenge and take your JavaScript and React to the second level.
+I love react and  teaching. Now, I like to teach it a global audience, I believe you will get everything you need to use and work with react. Let's learn react together for a month. I would like to ask you to join this challenge and take your JavaScript and React to the second level.
 
 [<img align="right" width="100%"  src="./images/30DaysOfReact_banner.jpg" />](https://github.com/Asabeneh/30-Days-Of-React)
 
