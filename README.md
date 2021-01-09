@@ -8,9 +8,10 @@
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
       <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>  
+  </a>
+
   
-  1[](https://komarev.com/ghpvc/?username=asabeneh)
+  ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
   
   <div>
 <br />
