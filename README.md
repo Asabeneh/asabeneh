@@ -2,6 +2,8 @@
 
 ## I'm Asabeneh Yeatayeh
 
+*I learned the hard way, why don't you learn the easy-way from me.*
+
 <div>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
