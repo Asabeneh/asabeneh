@@ -31,6 +31,7 @@ Technologies which I teach and use:
 <img src ="./images/react.svg" alt="react logo" width="8%" title='React' />
 <img src ="./images/redux.svg" alt="redux logo" width="8%" title='Redux' />
 <img src ="./images/gatsby.svg" alt="Gatsby logo" width="8%" title='Gatsby'/>
+<img src ="./images/react.svg" alt="reactNative logo" width="8%" title='ReactNative' />
 
 ### Backend Technologies
 
