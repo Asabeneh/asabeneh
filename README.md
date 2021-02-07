@@ -11,20 +11,7 @@
 
 </div>
 
-<!-- <div>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-  <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="2.75%"></a>
-
-![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
-
-  <div> -->
-
-I am an _educator_, _programmer_, _fullstack developer_, _motivator_, _content creater_ and _data analyst_.
+I am an _educator_, _programmer_, _full-stack developer_, _motivator_, _content creator_ and _data analyst_.
 Technologies which I teach and use:
 
 ### Frontend Technologies
