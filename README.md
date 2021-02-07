@@ -23,7 +23,6 @@
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 
   <div> -->
-<br />
 
 I am an _educator_, _programmer_, _fullstack developer_, _motivator_, _content creater_ and _data analyst_.
 Technologies which I teach and use:
@@ -64,7 +63,7 @@ Technologies which I teach and use:
 <br/>
 
 <small>
-<em>I learned the hard way, why don't you learn the easy-way from me.</em> I usually try to produce a jargon free educational materials.
+ I usually try to produce a jargon free educational materials.
 </small>
 
 <div>
