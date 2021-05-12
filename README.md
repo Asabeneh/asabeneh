@@ -11,6 +11,11 @@
 
 </div>
 
+<div>
+<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
+<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+</div>
+
 I am an _educator_, _programmer_, _full-stack developer_, _motivator_, _content creator_ and _data analyst_.
 Technologies which I teach and use:
 
@@ -57,10 +62,7 @@ Technologies which I teach and use:
  I usually try to produce a jargon free educational materials.
 </small>
 
-<div>
-<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
-</div>
+
 
 <!-- ## Tech Stacks
 
