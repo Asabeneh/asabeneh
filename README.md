@@ -1,6 +1,7 @@
 # Hi 👋 !
 
 ## I'm Asabeneh Yeatayeh
+<small>Please, remember to follow this account if you want mine Gold or Diamond!</small>
 
 <div>
 <a href="https://www.linkedin.com/in/asabeneh" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
