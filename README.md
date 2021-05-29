@@ -1,7 +1,7 @@
 # Hi 👋 !
 
 ## I'm Asabeneh Yeatayeh
-<small>Remember to follow this account if you want to mine Gold or Diamond!</small>
+<small>A place to mine Gold and Diamond! </small>
 
 <div>
 <a href="https://www.linkedin.com/in/asabeneh" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
@@ -23,17 +23,17 @@ Technologies which I teach and use:
 ### Frontend Technologies
 
 <div>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="6%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="6%" title='CSS3'/>
-  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="8%" title='Bootstrap'/>
-  <img src ="./images/sass.svg" alt="Sass logo" width="8%" title='Sass'/>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="8%" title='JavaScript'/>
-  <img src ="./images/es6.svg" alt="ES6 logo" width="8%" title='ES6'/>
-  <img src ="./images/d3.svg" alt="D3 logo" width="8%" title='D3.js'/>
-  <img src ="./images/react.svg" alt="react logo" width="8%" title='React'/>
-  <img src ="./images/redux.svg" alt="redux logo" width="8%" title='Redux'/>
-  <img src ="./images/gatsby.svg" alt="Gatsby logo" width="8%" title='Gatsby'/>
-<div>
+  <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
+  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="6%" title='Bootstrap'/>
+  <img src ="./images/sass.svg" alt="Sass logo" width="6%" title='Sass'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
+  <img src ="./images/es6.svg" alt="ES6 logo" width="6%" title='ES6'/>
+  <img src ="./images/d3.svg" alt="D3 logo" width="6%" title='D3.js'/>
+  <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
+  <img src ="./images/redux.svg" alt="redux logo" width="6%" title='Redux'/>
+  <img src ="./images/gatsby.svg" alt="Gatsby logo" width="6%" title='Gatsby'/>
+<div> 
 
 ### Backend Technologies
 
@@ -63,15 +63,12 @@ Technologies which I teach and use:
  I usually try to produce a jargon free educational materials.
 </small>
 
-
-
 <!-- ## Tech Stacks
-
 - MEEN Stack
 - MERN Stack
 - JAM Stack
-- MRF Stack -->
+- MRF Stack
+ -->
 
 ---
-
 <small> _I am a lifelong learner and I love teaching and inspiring people_. </small>
