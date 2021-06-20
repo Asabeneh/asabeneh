@@ -14,13 +14,13 @@
 
 <div>
 There are more than 100 videos about
-✅ HTML
-✅ CSS
-✅ Git and GitHub
-✅ JavaScript
-✅ React
-✅ Python
-✅ Data Analysis
+✅ HTML <br />
+✅ CSS <br />
+✅ Git and GitHub <br />
+✅ JavaScript <br />
+✅ React <br />
+✅ Python <br />
+✅ Data Analysis <br />
  on CodingForAll YouTube channel. You may subscribe the channel for more contents:
   <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
  </div>
