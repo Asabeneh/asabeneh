@@ -72,8 +72,7 @@ There are more than 100 videos about <br />
 ✅ React <br />
 ✅ Python <br />
 ✅ Data Analysis <br />
- on CodingForAll YouTube channel. You may subscribe the channel for more contents
- 
+ on <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank">CodingForAll</a>CodingForAll YouTube channel. You may subscribe the channel for more contents
  </div>
 
 <small>
