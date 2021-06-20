@@ -13,6 +13,19 @@
 </div>
 
 <div>
+There are more than 100 videos about
+✅ HTML
+✅ CSS
+✅ Git and GitHub
+✅ JavaScript
+✅ React
+✅ Python
+✅ Data Analysis
+ on CodingForAll YouTube channel. You may subscribe the channel for more contents:
+  <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
+ </div>
+
+<div>
   <small>Support the <strong><em style ="color:red;">author</em></strong> to create more educational materials</small> <br />  
 <a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
 </div>
