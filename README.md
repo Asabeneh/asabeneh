@@ -12,18 +12,7 @@
 
 </div>
 
-<div>
-There are more than 100 videos about
-✅ HTML <br />
-✅ CSS <br />
-✅ Git and GitHub <br />
-✅ JavaScript <br />
-✅ React <br />
-✅ Python <br />
-✅ Data Analysis <br />
- on CodingForAll YouTube channel. You may subscribe the channel for more contents:
-  <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
- </div>
+
 
 <div>
   <small>Support the <strong><em style ="color:red;">author</em></strong> to create more educational materials</small> <br />  
@@ -75,6 +64,19 @@ Technologies which I teach and use:
 <small>
  I usually try to produce a jargon free educational materials.
 </small>
+ 
+ <div>
+There are more than 100 videos about <br />
+✅ HTML <br />
+✅ CSS <br />
+✅ Git and GitHub <br />
+✅ JavaScript <br />
+✅ React <br />
+✅ Python <br />
+✅ Data Analysis <br />
+ on CodingForAll YouTube channel. You may subscribe the channel for more contents:
+  <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
+ </div>
 
 <!-- ## Tech Stacks
 - MEEN Stack
