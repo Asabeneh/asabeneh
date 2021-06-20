@@ -60,10 +60,8 @@ Technologies which I teach and use:
   <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="8%" title='Nodemon'/> 
 </div>
-
-<small>
- I usually try to produce a jargon free educational materials.
-</small>
+  
+ ### YouTube
  
  <div>
 There are more than 100 videos about <br />
@@ -77,6 +75,11 @@ There are more than 100 videos about <br />
  on CodingForAll YouTube channel. You may subscribe the channel for more contents:
   <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
  </div>
+
+<small>
+ I usually try to produce a jargon free educational materials.
+</small>
+
 
 <!-- ## Tech Stacks
 - MEEN Stack
