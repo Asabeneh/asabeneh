@@ -61,7 +61,7 @@ Technologies which I teach and use:
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="8%" title='Nodemon'/> 
 </div>
   
- ### YouTube
+ ### YouTube  <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
  
  <div>
 There are more than 100 videos about <br />
@@ -72,8 +72,8 @@ There are more than 100 videos about <br />
 ✅ React <br />
 ✅ Python <br />
 ✅ Data Analysis <br />
- on CodingForAll YouTube channel. You may subscribe the channel for more contents:
-  <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
+ on CodingForAll YouTube channel. You may subscribe the channel for more contents
+ 
  </div>
 
 <small>
