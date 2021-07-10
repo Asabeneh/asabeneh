@@ -61,7 +61,7 @@ Technologies which I teach and use:
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="8%" title='Nodemon'/> 
 </div>
   
- ### YouTube  <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
+ ### Subscribe to My YouTube Channel <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
  
  <div>
 There are more than 100 videos about <br />
