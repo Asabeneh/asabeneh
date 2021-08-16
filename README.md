@@ -19,10 +19,10 @@ I am an _educator_, _programmer_, _full-stack developer_, _motivator_, _content 
 
 <div>
 <h1>Join upcoming Bootcamp
-<h4> One Month Intensive Bootcamp</h4>
-<small> Starts: 2 August 2021</small>
-<p>Click here to know more about the <a href ="https://www.linkedin.com/events/bootcamporientation6824450804087324672/" style ="color:red;font-weight:bold">BOOTCAMP</a></p>
-<a href = "https://www.linkedin.com/events/bootcamporientation6824450804087324672/"><img src="./images/bootcamp.png" alt = "bootcamp" /></a>
+<h4> One Month Intensive JavaScript Bootcamp</h4>
+<small> Starts: 21 August 2021</small>
+<!-- <p>Click here to know more about the <a href ="https://www.linkedin.com/events/bootcamporientation6824450804087324672/" style ="color:red;font-weight:bold">BOOTCAMP</a></p>
+<a href = "https://www.linkedin.com/events/bootcamporientation6824450804087324672/"><img src="./images/bootcamp.png" alt = "bootcamp" /></a> -->
 
 </div>
 
