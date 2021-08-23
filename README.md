@@ -1,6 +1,6 @@
 # Hi 👋 !
 
-## I'm Asabeneh Yeatayeh
+## I'm Asabeneh S. Yetayeh
 <small>A place to mine Gold and Diamond! </small>
 
 <div>
