@@ -17,6 +17,8 @@
 
 I am an _educator_, _programmer_, _full-stack developer_, _motivator_, _content creator_ and _data analyst_.
 
+## Testimonials
+Read or write a testiomonal here [link](https://testimonify.herokuapp.com/)
 
 ## Technologies which I teach and use:
 
@@ -47,9 +49,6 @@ I am an _educator_, _programmer_, _full-stack developer_, _motivator_, _content 
   <img src ="./images/flask.svg" alt="Flask logo" width="8%" title='Flask'/>
   <img src ="./images/django.svg" alt="Django logo" width="8%" title='Django'/>
 </div>
-
-### Testimonials
-Read or write a testiomonal here [link](https://testimonify.herokuapp.com/)
 
 ### Tools
 
