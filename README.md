@@ -18,7 +18,7 @@
 I am an _educator_, _programmer_, _full-stack developer_, _motivator_, _content creator_ and _data analyst_.
 
 ## Testimonials
-Read or write a testiomonal here [link](https://testimonify.herokuapp.com/)
+Read or write a testiomonal [here](https://testimonify.herokuapp.com/)
 
 ## Technologies which I teach and use:
 
