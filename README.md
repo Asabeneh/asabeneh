@@ -3,8 +3,7 @@
 ## I'm Asabeneh S. Yetayeh
 <small style='font-size:12px;'>A place to mine Gold and Diamond! </small>
 
-I am an _educator_, _programmer_, _full-stack developer_, _motivator_, _content creator_ and _data analyst_. This GitHub page has many educational materials about HTML, CSS, JS, React, Python, Python Libraries, Web Development, Data Analysis, and many other topics. The contents are known for their clarity and simplicity. 30DaysOfJavaScript, 30DaysOfReact, 30DaysOfPyhton, 10DaysOfGitandGith are the most well known contents on this page. I am very much pleased to have you here on my GitHub page and using this contents you can harness your unlimited potential to become a programmer, developer or data analyst. To get uptodate about the contents I create you may follow me on GitHub, Linked and Twitter.
-<br / >
+I am an _educator_, _programmer_, _full-stack developer_, _motivator_, _content creator_ and _data analyst_. This GitHub page has many educational materials about HTML, CSS, JS, React, Python, Python Libraries, Web Development, Data Analysis, and many other topics. The contents are known for their clarity and simplicity. 30DaysOfJavaScript, 30DaysOfReact, 30DaysOfPyhton, 10DaysOfGitandGith are the most well known contents on this page. I am very much pleased to have you here on my GitHub page and using this contents you can harness your unlimited potential to become a programmer, developer or data analyst. To get uptodate about the contents I create you may follow me on GitHub, Linked and Twitter.  
 
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 
