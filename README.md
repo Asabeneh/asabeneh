@@ -1,12 +1,10 @@
 # Hi 👋 !
 
 ## I'm Asabeneh S. Yetayeh
-
 <small style='font-size:12px;'>A place to mine Gold and Diamond! </small>
-![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 
 I am an _educator_, _programmer_, _full-stack developer_, _motivator_, _content creator_ and _data analyst_. This GitHub page has many educational materials about HTML, CSS, JS, React, Python, Python Libraries, Web Development, Data Analysis, and many other topics. The contents are known for their clarity and simplicity. 30DaysOfJavaScript, 30DaysOfReact, 30DaysOfPyhton, 10DaysOfGitandGith are the most well known contents on this page. I am very much pleased to have you here on my GitHub page and using this contents you can harness your unlimited potential to become a programmer, developer or data analyst. To get uptodate about the contents I create you may follow me on GitHub, Linked and Twitter.
-
+![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 <div>
 <a href="https://www.linkedin.com/in/asabeneh" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
 <a href="https://twitter.com/Asabeneh" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
@@ -78,14 +76,10 @@ There are more than 100 videos about <br />
   
  ---
   
- <div>
+<div>
   <small>Support the <strong><em style ="color:red;">author</em></strong> to create more educational materials</small> <br />  
 <a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
 </div>
-
-<small>
- I usually try to produce a jargon free educational materials.
-</small>
 
 
 <!-- ## Tech Stacks
