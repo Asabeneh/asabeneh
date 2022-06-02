@@ -47,6 +47,12 @@ Read or write a testiomonal [here](https://testimonify.herokuapp.com/)
   <img src ="./images/django.svg" alt="Django logo" width="5%" title='Django'/>
 </div>
 
+### Upcoming challenges
+  - 30DaysOfTypeScript
+  - 30DaysOfSQL
+  - 100DaysOfWeb
+  - 10DaysOfBashing
+
 ### Tools
 
 <div>
