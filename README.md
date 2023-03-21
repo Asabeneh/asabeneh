@@ -10,9 +10,15 @@ I am an _educator_, _programmer_, _full-stack developer_, _motivator_, _content 
 <div>
 <a href="https://www.linkedin.com/in/asabeneh" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
 <a href="https://twitter.com/Asabeneh" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
-<a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
 <a href="https://testimonial-vdzd.onrender.com" target="_blank">website</a>
 </div>
+
+## YouTube Videos
+<a href="https://www.youtube.com/@washera103/videos" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
+- <a href="https://www.youtube.com/watch?v=OCCWZheOesI&ab_channel=Washera">Python</a>
+- <a href="https://www.youtube.com/watch?v=eYcB-1SCVMQ&ab_channel=Washera">DOM - Document Object Mode</a>
+- <a href="https://www.youtube.com/watch?v=owNyA1er5SA&list=PLbvhRHYrmshT4whicja6Njt6MLPK4tWOK&index=8&ab_channel=Washera">React</a>
+
 
 ## Testimonials
 Read or write a testiomonal [here](https://testimonial-vdzd.onrender.com/)
