@@ -17,7 +17,7 @@ In addition, you may subscribe my channel, <em><a href="https://www.youtube.com/
 
 ## <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a> YouTube Videos
 
-- <a href="https://www.youtube.com/watch?v=OCCWZheOesI&ab_channel=Washera">Python</a>
+- <a href="https://www.youtube.com/watch?v=OCCWZheOesI&ab_channel=Washera">Python in 3 hours</a>
 - <a href="https://www.youtube.com/watch?v=eYcB-1SCVMQ&ab_channel=Washera">DOM - Document Object Mode</a>
 - <a href="https://www.youtube.com/watch?v=7DxegtOZSVE&list=PLbvhRHYrmshT4whicja6Njt6MLPK4tWOK&ab_channel=Washera">React</a>
 - <a href="https://www.youtube.com/watch?v=LHRn9NMNBCQ&list=PLbvhRHYrmshRFWUrS6x2LgeE4CMte_m5K&ab_channel=Washera">Python for Absolute Beginner</a>
