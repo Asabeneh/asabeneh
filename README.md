@@ -12,7 +12,6 @@ In addition, you may subscribe my channel, <em><a href="https://www.youtube.com/
 <div>
 <a href="https://www.linkedin.com/in/asabeneh" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
 <a href="https://twitter.com/Asabeneh" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
-<a href="https://testimonial-vdzd.onrender.com" target="_blank">website</a>
 </div>
 
 ## <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a> YouTube Videos
