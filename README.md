@@ -81,7 +81,7 @@ Read or write a testiomonal [here](https://testimonial-vdzd.onrender.com/)
   
  ### Support the Author
   
- By Subscribing to the YouTube Channel <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
+ By Subscribing to the YouTube Channel <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
  
  <div>
 There are more than 100 videos about <br />
@@ -92,7 +92,7 @@ There are more than 100 videos about <br />
 ✅ React <br />
 ✅ Python <br />
 ✅ Data Analysis <br />
- on <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank">CodingForAll</a> YouTube channel. You may subscribe the channel for more contents
+ on <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw" target="_blank">Washera</a> YouTube channel. You may subscribe the channel for more contents
  </div>
   
  ---
