@@ -17,7 +17,9 @@ I am an _educator_, _programmer_, _full-stack developer_, _motivator_, _content 
 
 - <a href="https://www.youtube.com/watch?v=OCCWZheOesI&ab_channel=Washera">Python</a>
 - <a href="https://www.youtube.com/watch?v=eYcB-1SCVMQ&ab_channel=Washera">DOM - Document Object Mode</a>
-- <a href="https://www.youtube.com/watch?v=owNyA1er5SA&list=PLbvhRHYrmshT4whicja6Njt6MLPK4tWOK&index=8&ab_channel=Washera">React</a>
+- <a href="https://www.youtube.com/watch?v=7DxegtOZSVE&list=PLbvhRHYrmshT4whicja6Njt6MLPK4tWOK&ab_channel=Washera">React</a>
+- <a href="https://www.youtube.com/watch?v=LHRn9NMNBCQ&list=PLbvhRHYrmshRFWUrS6x2LgeE4CMte_m5K&ab_channel=Washera">Python for Absolute Beginner</a>
+- <a href="https://www.youtube.com/watch?v=9cCApTLb_Io&list=PLbvhRHYrmshSCAHZbibqh_px_LxnU54dk&ab_channel=Washera">Git and GitHub</a>
 
 
 ## Testimonials
