@@ -13,13 +13,17 @@ I am an _educator_, _programmer_, _full-stack developer_, _motivator_, _content 
 <a href="https://testimonial-vdzd.onrender.com" target="_blank">website</a>
 </div>
 
-## <a href="https://www.youtube.com/@washera103/videos" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a> YouTube Videos
+## <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a> YouTube Videos
 
 - <a href="https://www.youtube.com/watch?v=OCCWZheOesI&ab_channel=Washera">Python</a>
 - <a href="https://www.youtube.com/watch?v=eYcB-1SCVMQ&ab_channel=Washera">DOM - Document Object Mode</a>
 - <a href="https://www.youtube.com/watch?v=7DxegtOZSVE&list=PLbvhRHYrmshT4whicja6Njt6MLPK4tWOK&ab_channel=Washera">React</a>
 - <a href="https://www.youtube.com/watch?v=LHRn9NMNBCQ&list=PLbvhRHYrmshRFWUrS6x2LgeE4CMte_m5K&ab_channel=Washera">Python for Absolute Beginner</a>
 - <a href="https://www.youtube.com/watch?v=9cCApTLb_Io&list=PLbvhRHYrmshSCAHZbibqh_px_LxnU54dk&ab_channel=Washera">Git and GitHub</a>
+- <a href="https://www.youtube.com/watch?v=GItIBTI1jv8&t=2s&ab_channel=Washera">Array and Object Destructuring</a>
+- <a href="https://www.youtube.com/watch?v=M_wYYE2F5os&t=472s&ab_channel=Washera">Objected Oriented Programming in JS</a>
+
+
 
 
 ## Testimonials
