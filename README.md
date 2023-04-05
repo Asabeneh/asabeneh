@@ -5,7 +5,7 @@
 
 I am an _educator_, _programmer_, _full-stack developer_, _motivator_, _content creator_ and _data analyst_. This GitHub page has many educational materials about HTML, CSS, JS, React, Python, Python Libraries, Web Development, Data Analysis, and many other topics. The contents are known for their clarity and simplicity. 30DaysOfJavaScript, 30DaysOfReact, 30DaysOfPyhton, 10DaysOfGitandGithub are the most well known contents on this page. I am very much pleased to have you here on my GitHub page and using this contents you can harness your unlimited potential to become a programmer, developer or data analyst. To get uptodate about the contents I create,  you may follow me on <a href="https://github.com/Asabeneh">GitHub</a>, <a href="https://www.linkedin.com/in/asabeneh">LinkedIn</a> and <a href="https://twitter.com/Asabeneh">Twitter</a>.  
 
-In addition, you may subscribe my channel, <em><a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw">Washera</a></em> for video content about HTML, CSS, JS, TypeScript, React, Redux, Node, MongoDB, MYSQL, and Python.
+In addition, you may subscribe to my channel, <em><a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw">Washera</a></em> for video content about HTML, CSS, JS, TypeScript, React, Redux, Node, MongoDB, MYSQL, and Python.
 
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 
