@@ -24,7 +24,7 @@ In addition, you may subscribe to my channel, <em><a href="https://www.youtube.c
 
 
 ## Testimonials
-Read or write a testiomonal [here](https://testimonial-vdzd.onrender.com/)
+Read or write a testiomonal [here](https://testimonial-s3sw.onrender.com/)
 
 ## Technologies which I teach and use:
 
