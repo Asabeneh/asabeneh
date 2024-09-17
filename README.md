@@ -21,20 +21,6 @@ Subscribe to my YouTube channel, [Washera](https://www.youtube.com/channel/UC7PN
 | <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asabeneh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asabeneh's github stats" /></a> | <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asabeneh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-## Top Repositories
-
-
-<a href="https://github.com/asabeneh/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asabeneh&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/asabeneh/asabeneh.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asabeneh&repo=asabeneh.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 
 ---
