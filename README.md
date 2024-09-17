@@ -16,12 +16,24 @@ I’m thrilled to have you here! My mission is to empower you to harness your po
 
 Subscribe to my YouTube channel, [Washera](https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw), for video tutorials on HTML, CSS, JavaScript, TypeScript, React, Node.js, MongoDB, MySQL, and Python.
 
-![asabeneh's Stats](https://github-readme-stats.vercel.app/api?username=asabeneh&theme=vue-light&show_icons=true&hide_border=true&count_private=true)
+
 
 | <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asabeneh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asabeneh's github stats" /></a> | <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asabeneh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asabeneh&repo=github-readme-stats)](https://github.com/asabeneh/github-readme-stats)
+## Top Repositories
+
+
+<a href="https://github.com/asabeneh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asabeneh&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/asabeneh/asabeneh.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asabeneh&repo=asabeneh.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
 
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 
