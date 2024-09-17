@@ -16,6 +16,8 @@ I’m thrilled to have you here! My mission is to empower you to harness your po
 
 Subscribe to my YouTube channel, [Washera](https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw), for video tutorials on HTML, CSS, JavaScript, TypeScript, React, Node.js, MongoDB, MySQL, and Python.
 
+![asabeneh's Stats](https://github-readme-stats.vercel.app/api?username=asabeneh&theme=vue-light&show_icons=true&hide_border=true&count_private=true)
+
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 
 ---
