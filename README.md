@@ -18,6 +18,9 @@ Subscribe to my YouTube channel, [Washera](https://www.youtube.com/channel/UC7PN
 
 ![asabeneh's Stats](https://github-readme-stats.vercel.app/api?username=asabeneh&theme=vue-light&show_icons=true&hide_border=true&count_private=true)
 
+| <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asabeneh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asabeneh's github stats" /></a> | <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asabeneh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 
 ---
