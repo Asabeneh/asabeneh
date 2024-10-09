@@ -4,30 +4,7 @@
 ## I'm Asabeneh S. Yetayeh
 <em><small>Some say this place is where you can mine gold and diamonds!</small></em>
 
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-            h1 {
-                color: red;
-                animation: mymove 2s infinite;
-            }
-
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
-            </style>
-            <h1>HELLO WORLD!</h1>
-        </div>
-    </foreignObject>
-</svg>
-
-<strong style="color:red;">Learn with Asabeneh by join the upcoming [coding bootcamps](https://docs.google.com/forms/d/e/1FAIpQLSf0oNIYR9XU1DCctfl-pY36KbWse-SQX5aQaUgetqSinFYnmQ/viewform)</strong>
+<strong style="color:red;">Learn with Asabeneh by join the upcoming ![#c5f015][coding bootcamps](https://docs.google.com/forms/d/e/1FAIpQLSf0oNIYR9XU1DCctfl-pY36KbWse-SQX5aQaUgetqSinFYnmQ/viewform)</strong>
 
 I’m a passionate _educator_, _programmer_, _full-stack developer_, _content creator_, and _data analyst_. My GitHub repository is packed with educational resources on web development, programming, and data analysis. Here, you’ll find easy-to-understand content on HTML, CSS, JavaScript, React, Python, and much more.
 
