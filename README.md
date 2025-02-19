@@ -1,5 +1,5 @@
 
-# Hi 👋 Welcome to My GitHub!
+# Hi 👋 Welcome 
 
 ## I'm Asabeneh S. Yetayeh
 <em><small>Some say this place is where you can mine gold and diamonds!</small></em>
