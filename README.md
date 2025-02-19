@@ -4,7 +4,7 @@
 ## I'm Asabeneh S. Yetayeh
 <em><small>Some say this place is where you can mine gold and diamonds!</small></em>
 
-I’m a passionate _educator_, _programmer_, _full-stack developer_, _content creator_, and _data analyst_. My GitHub repository is packed with educational resources on web development, programming, and data analysis. Here, you’ll find easy-to-understand content on HTML, CSS, JavaScript, React, Python, and much more.
+I’m an _educator_, _programmer_, _full-stack developer_, _content creator_, and _data analyst_. My GitHub repository is packed with educational resources on web development, programming, and data analysis. Here, you’ll find easy-to-understand content on HTML, CSS, JavaScript,TypeScrpt, React, Python, Node and much more. You may also checck out the learning resources that I share on [my personal website](https://www.asabeneh.com)
 
 Some of the most popular projects on this page include:
 - **30DaysOfJavaScript**
