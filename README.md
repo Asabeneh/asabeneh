@@ -26,10 +26,15 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
 
 <div align="center">
   <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
-    <!-- Light mode -->
-    <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-logo.png#gh-light-mode-only" width="400px" alt="Wispr Flow Logo" title="Wispr Flow"/>
-    <!-- Dark mode -->
-    <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-Logo-white.png#gh-dark-mode-only" width="400px" alt="Wispr Flow Logo" title="Wispr Flow"/>
+    <picture>
+      <!-- Dark mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-Logo-white.png" />
+      <!-- Light mode (fallback) -->
+      <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-logo.png"
+           width="400px"
+           alt="Wispr Flow Logo"
+           title="Wispr Flow" />
+    </picture>
   </a>
 
   <h3>Dictation that understands code</h3>
