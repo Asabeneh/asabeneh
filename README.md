@@ -24,11 +24,16 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
 
 ### Current Sponsor
 
+
 <p align="center">
   <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
-    <img src="./images/Wispr_Flow-logo.png" width="400px" alt="Wispr Flow Logo"  title = "Wispr Flow" />
+    <!-- Light mode -->
+    <img src="./images/Wispr_Flow-logo.png#gh-light-mode-only" width="400px" alt="Wispr Flow Logo" title="Wispr Flow" />
+    <!-- Dark mode -->
+    <img src="./images/Wispr_Flow-logo-white.png#gh-dark-mode-only" width="400px" alt="Wispr Flow Logo" title="Wispr Flow" />
   </a>
 </p>
+
 
 <h3 align="center">Dictation that understands code</h3>
 <p align="center">
