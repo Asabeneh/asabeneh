@@ -1,12 +1,12 @@
 
-# Hi 👋 Welcome 
+# Hi 👋 Welcome
 
 ## I'm Asabeneh S. Yetayeh
-<em><small>Some say this place is where you can mine gold and diamonds!</small></em>
 
 I’m an _educator_, _programmer_, _full-stack developer_, _content creator_, and _data analyst_. My GitHub repository is packed with educational resources on web development, programming, and data analysis. Here, you’ll find easy-to-understand content on HTML, CSS, JavaScript,TypeScrpt, React, Python, Node and much more. You may also checck out the learning resources that I share on [my personal website](https://www.asabeneh.com)
 
 Some of the most popular projects on this page include:
+
 - **30DaysOfJavaScript**
 - **30DaysOfReact**
 - **30DaysOfPython**
@@ -15,13 +15,6 @@ Some of the most popular projects on this page include:
 I’m thrilled to have you here! My mission is to empower you to harness your potential and become a skilled programmer, developer, or data analyst. Stay updated with my latest projects by following me on [GitHub](https://github.com/Asabeneh), [LinkedIn](https://www.linkedin.com/in/asabeneh), and [Twitter](https://twitter.com/Asabeneh).
 
 Subscribe to my YouTube channel, [Washera](https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw), for video tutorials on HTML, CSS, JavaScript, TypeScript, React, Node.js, MongoDB, MySQL, and Python.
-
-
-
-| <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asabeneh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asabeneh's github stats" /></a> | <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asabeneh&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 
 ---
 
@@ -33,7 +26,7 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
 
 <p align="center">
   <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
-    <img src="./images/wispr_flow_logo.svg" alt="Wispr Flow Logo" height="80"/>
+    <img src="./images/wispr_flow_logo.svg" alt="Wispr Flow Logo"  title = "Wispr Flow" />
   </a>
 </p>
 
@@ -47,7 +40,6 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
 ### 🙌 Become a Sponsor
 
 You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/asabeneh)** or through:
- 
 
 Every contribution, big or small, makes a huge difference. Thank you for your support! 🌟
 
@@ -60,6 +52,7 @@ Help me continue creating free educational materials by subscribing to my YouTub
 ---
 
 ## Featured YouTube Videos
+
 - [Python in 3 Hours](https://www.youtube.com/watch?v=OCCWZheOesI&ab_channel=Washera)
 - [DOM – Document Object Model](https://www.youtube.com/watch?v=eYcB-1SCVMQ&ab_channel=Washera)
 - [React – Complete Guide](https://www.youtube.com/watch?v=7DxegtOZSVE&list=PLbvhRHYrmshT4whicja6Njt6MLPK4tWOK&ab_channel=Washera)
@@ -70,9 +63,10 @@ Help me continue creating free educational materials by subscribing to my YouTub
 
 ---
 
-## Technologies I Teach and Use:
+## Technologies I Teach and Use
 
 ### Frontend
+
 <div>
   <img src ="./images/html-5.svg" alt="HTML5" width="3%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3" width="3%" title='CSS3'/>
@@ -87,6 +81,7 @@ Help me continue creating free educational materials by subscribing to my YouTub
 </div>
 
 ### Backend
+
 <div>
   <img src ="./images/nodejs.svg" alt="Node.js" width="5%" title='Node.js'/>
   <img src ="./images/express.svg" alt="Express" width="5%" title='Express'/>
@@ -99,6 +94,7 @@ Help me continue creating free educational materials by subscribing to my YouTub
 </div>
 
 ### Tools
+
 <div>
   <img src ="./images/figma.svg" alt="Figma" width="5%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code" width="5%" title='Visual Studio Code'/>
@@ -111,6 +107,7 @@ Help me continue creating free educational materials by subscribing to my YouTub
 ---
 
 ## Upcoming Challenges
+
 - **30DaysOfTypeScript**
 - **30DaysOfSQL**
 - **100DaysOfWeb**
@@ -119,16 +116,22 @@ Help me continue creating free educational materials by subscribing to my YouTub
 ---
 
 ## Testimonials
-Feel free to [read or leave a testimonial](https://testimonial-s3sw.onrender.com/).
+
+Feel free to [read or leave a testimonial](https://www.asabeneh.com/).
 
 ---
 
 ## Support My Work
+
 Help me continue creating free educational materials by subscribing to my YouTube channel [Washera](https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw) or by [supporting me on PayPal](https://www.paypal.me/asabeneh).
 
 ---
 
+| <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asabeneh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asabeneh's github stats" /></a> | <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asabeneh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
+
 <small><em>I’m a lifelong learner with a passion for teaching and inspiring others.</em></small>
 
 ---
-
