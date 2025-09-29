@@ -31,7 +31,7 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
 </p>
 
 <h3 align="center">Dictation that understands code</h3>
-<em align="center">
+<em align="center" style="text-align:center;">
   Ship 4x faster with developer-first dictation that works in every app.
 </em>
 
