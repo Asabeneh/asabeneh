@@ -28,9 +28,9 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
 <p align="center">
   <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
     <!-- Light mode -->
-    <img src="./images/Wispr_Flow-logo.png#gh-light-mode-only" width="400px" alt="Wispr Flow Logo" title="Wispr Flow" />
+    <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-logo.png#gh-light-mode-only" width="400px" alt="Wispr Flow Logo" title="Wispr Flow" />
     <!-- Dark mode -->
-    <img src="./images/Wispr_Flow-logo-white.png#gh-dark-mode-only" width="400px" alt="Wispr Flow Logo" title="Wispr Flow" />
+    <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-logo-white.png#gh-dark-mode-only" width="400px" alt="Wispr Flow Logo" title="Wispr Flow" />
   </a>
 </p>
 
