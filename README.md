@@ -25,8 +25,39 @@ Subscribe to my YouTube channel, [Washera](https://www.youtube.com/channel/UC7PN
 
 ---
 
-## Upcoming Coding Bootcamps:
-Don’t miss out! [Join here](https://docs.google.com/forms/d/e/1FAIpQLSf0oNIYR9XU1DCctfl-pY36KbWse-SQX5aQaUgetqSinFYnmQ/viewform)
+## 💖 Sponsors
+
+Thanks to our amazing sponsors for supporting my open-source work and the **30 Days of Challenge** series!
+
+### Current Sponsor
+
+<p align="center">
+  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
+    <img src="./images/wispr_flow_logo.svg" alt="Wispr Flow Logo" height="80"/>
+  </a>
+</p>
+
+<h3 align="center">Dictation that understands code</h3>
+<em align="center">
+  Ship 4x faster with developer-first dictation that works in every app.
+</em>
+
+---
+
+### 🙌 Become a Sponsor
+
+You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/asabeneh)** or through:
+ 
+
+Every contribution, big or small, makes a huge difference. Thank you for your support! 🌟
+
+---
+
+## Support My Work
+
+Help me continue creating free educational materials by subscribing to my YouTube channel [Washera](https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw) or by [supporting me on PayPal](https://www.paypal.me/asabeneh).
+
+---
 
 ## Featured YouTube Videos
 - [Python in 3 Hours](https://www.youtube.com/watch?v=OCCWZheOesI&ab_channel=Washera)
