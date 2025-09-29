@@ -26,7 +26,7 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
 
 <p align="center">
   <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
-    <img src="./images/Wispr_Flow-logo.png" width="350px" alt="Wispr Flow Logo"  title = "Wispr Flow" />
+    <img src="./images/Wispr_Flow-logo.png" width="400px" alt="Wispr Flow Logo"  title = "Wispr Flow" />
   </a>
 </p>
 
