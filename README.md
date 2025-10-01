@@ -41,20 +41,14 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
   <p><em>Ship 4x faster with developer-first dictation that works in every app.</em></p>
 </div>
 
-
 ---
 
 ### 🙌 Become a Sponsor
 
-You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/asabeneh)** or through:
+You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/asabeneh)** or through [supporting me on PayPal](https://www.paypal.me/asabeneh).
+:
 
 Every contribution, big or small, makes a huge difference. Thank you for your support! 🌟
-
----
-
-## Support My Work
-
-Help me continue creating free educational materials by subscribing to my YouTube channel [Washera](https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw) or by [supporting me on PayPal](https://www.paypal.me/asabeneh).
 
 ---
 
