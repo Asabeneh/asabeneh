@@ -1,20 +1,21 @@
-
 # Hi 👋 Welcome
 
 ## I'm Asabeneh S. Yetayeh
 
-I’m an _educator_, _programmer_, _full-stack developer_, _content creator_, and _data analyst_. My GitHub repository is packed with educational resources on web development, programming, and data analysis. Here, you’ll find easy-to-understand content on HTML, CSS, JavaScript,TypeScrpt, React, Python, Node and much more. You may also checck out the learning resources that I share on [my personal website](https://www.asabeneh.com)
+I’m an **educator, full-stack developer, and content creator** passionate about making programming accessible to everyone. My GitHub is packed with **free, high-quality learning resources** on web development, Python, data analysis, and more.
 
-Some of the most popular projects on this page include:
+🚀 Popular projects:
 
-- **30DaysOfJavaScript**
-- **30DaysOfReact**
-- **30DaysOfPython**
-- **10DaysOfGitandGithub**
+* [30DaysOfJavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+* [30DaysOfReact](https://github.com/Asabeneh/30-Days-Of-React)
+* [30DaysOfPython](https://github.com/Asabeneh/30-Days-Of-Python)
+* [10DaysOfGitAndGitHub](https://github.com/Asabeneh/10-Days-Of-Git-and-GitHub)
 
-I’m thrilled to have you here! My mission is to empower you to harness your potential and become a skilled programmer, developer, or data analyst. Stay updated with my latest projects by following me on [GitHub](https://github.com/Asabeneh), [LinkedIn](https://www.linkedin.com/in/asabeneh), and [Twitter](https://twitter.com/Asabeneh).
+I’ve helped **millions of learners worldwide** gain real coding skills. 🚀
+💡 Sponsors are welcome to join me in **empowering the next generation of developers** while gaining visibility in a vibrant, global tech community.
 
-Subscribe to my YouTube channel, [Washera](https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw), for video tutorials on HTML, CSS, JavaScript, TypeScript, React, Node.js, MongoDB, MySQL, and Python.
+👉 Connect with me: [GitHub](https://github.com/Asabeneh) · [LinkedIn](https://www.linkedin.com/in/asabeneh) · [Twitter](https://twitter.com/Asabeneh)
+🎥 Tutorials: [YouTube – Washera](https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw)
 
 ---
 
