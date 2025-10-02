@@ -11,7 +11,7 @@ I’m an **educator, full-stack developer, and content creator** passionate abou
 * [30DaysOfPython](https://github.com/Asabeneh/30-Days-Of-Python)
 * [10DaysOfGitAndGitHub](https://github.com/Asabeneh/10-Days-Of-Git-and-GitHub)
 
-I’ve helped **millions of learners worldwide** gain real coding skills. 🚀
+I’ve helped **millions of learners worldwide** gain real coding skills. 🚀  
 💡 Sponsors are welcome to join me in **empowering the next generation of developers** while gaining visibility in a vibrant, global tech community.
 
 👉 Connect with me: [GitHub](https://github.com/Asabeneh) · [LinkedIn](https://www.linkedin.com/in/asabeneh) · [Twitter](https://twitter.com/Asabeneh)  
