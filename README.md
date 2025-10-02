@@ -14,7 +14,7 @@ I’m an **educator, full-stack developer, and content creator** passionate abou
 I’ve helped **millions of learners worldwide** gain real coding skills. 🚀
 💡 Sponsors are welcome to join me in **empowering the next generation of developers** while gaining visibility in a vibrant, global tech community.
 
-👉 Connect with me: [GitHub](https://github.com/Asabeneh) · [LinkedIn](https://www.linkedin.com/in/asabeneh) · [Twitter](https://twitter.com/Asabeneh)
+👉 Connect with me: [GitHub](https://github.com/Asabeneh) · [LinkedIn](https://www.linkedin.com/in/asabeneh) · [Twitter](https://twitter.com/Asabeneh)  
 🎥 Tutorials: [YouTube – Washera](https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw)
 
 ---
@@ -47,8 +47,6 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
 ### 🙌 Become a Sponsor
 
 You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/asabeneh)** or through [supporting me on PayPal](https://www.paypal.me/asabeneh).
-:
-
 Every contribution, big or small, makes a huge difference. Thank you for your support! 🌟
 
 ---
@@ -120,12 +118,6 @@ Every contribution, big or small, makes a huge difference. Thank you for your su
 ## Testimonials
 
 Feel free to [read or leave a testimonial](https://www.asabeneh.com/).
-
----
-
-## Support My Work
-
-Help me continue creating free educational materials by subscribing to my YouTube channel [Washera](https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw) or by [supporting me on PayPal](https://www.paypal.me/asabeneh).
 
 ---
 
