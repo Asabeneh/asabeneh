@@ -11,7 +11,7 @@ I’m an **educator, full-stack developer, and content creator** passionate abou
 * [30DaysOfPython](https://github.com/Asabeneh/30-Days-Of-Python)
 * [10DaysOfGitAndGitHub](https://github.com/Asabeneh/10-Days-Of-Git-and-GitHub)
 
-I’ve helped **millions of learners worldwide** gain real coding skills. 🚀  
+👉 **“I’ve empowered millions of learners worldwide to gain practical coding skills 🚀. Discover their journeys in this [testimonial](https://www.asabeneh.com/).”**
 💡 Sponsors are welcome to join me in **empowering the next generation of developers** while gaining visibility in a vibrant, global tech community.
 
 👉 Connect with me: [GitHub](https://github.com/Asabeneh) · [LinkedIn](https://www.linkedin.com/in/asabeneh) · [Twitter](https://twitter.com/Asabeneh)  
@@ -112,13 +112,6 @@ Every contribution, big or small, makes a huge difference. Thank you for your su
 - **30DaysOfSQL**
 - **100DaysOfWeb**
 - **10DaysOfBashing**
-
----
-
-## Testimonials
-
-Feel free to [read or leave a testimonial](https://www.asabeneh.com/).
-
 ---
 
 | <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asabeneh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asabeneh's github stats" /></a> | <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asabeneh&layout=compact&theme=buefy&hide_border=true" /></a> |
