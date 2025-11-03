@@ -102,7 +102,8 @@ Every contribution, big or small, makes a huge difference. Thank you for your su
   <img src ="./images/flask.svg" alt="Flask" width="5%" title='Flask'/>
   <img src ="./images/django.svg" alt="Django" width="5%" title='Django'/>
 </div>
-
+-->
+<!--
 ### Tools
 
 <div>
@@ -114,7 +115,6 @@ Every contribution, big or small, makes a huge difference. Thank you for your su
   <img src ="./images/nodemon.svg" alt="Nodemon" width="5%" title='Nodemon'/>
 </div>
 --!>
----
 
 ## Upcoming Challenges
 
