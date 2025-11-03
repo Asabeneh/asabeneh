@@ -100,7 +100,8 @@ Every contribution, big or small, makes a huge difference. Thank you for your su
   <img src ="./images/python.svg" alt="Python" width="5%" title='Python'/>
   <img src ="./images/flask.svg" alt="Flask" width="5%" title='Flask'/>
   <img src ="./images/django.svg" alt="Django" width="5%" title='Django'/>
-</div>
+</div
+
 -->
 <!--
 ### Tools
@@ -113,7 +114,7 @@ Every contribution, big or small, makes a huge difference. Thank you for your su
   <img src ="./images/webpack.svg" alt="Webpack" width="5%" title='Webpack'/>
   <img src ="./images/nodemon.svg" alt="Nodemon" width="5%" title='Nodemon'/>
 </div>
---!>
+-->
 ---
 
 
