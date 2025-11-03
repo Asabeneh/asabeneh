@@ -36,10 +36,9 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
            alt="Wispr Flow Logo"
            title="Wispr Flow" />
     </picture>
+     <h1>Talk to code, stay in the Flow.</h1>
+  <h2>Flow is built for devs who live in their tools. Speak and give more context, get better results.</h2>
   </a>
-
-  <h3>Dictation that understands code</h3>
-  <p><em>Ship 4x faster with developer-first dictation that works in every app.</em></p>
 </div>
 
 ---
