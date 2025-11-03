@@ -25,8 +25,8 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
 
 ### Current Sponsor
 
+ <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
 <div align="center">
-  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
     <picture>
       <!-- Dark mode -->
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-Logo-white.png" />
@@ -36,12 +36,10 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
            alt="Wispr Flow Logo"
            title="Wispr Flow" />
     </picture>
-</a>
-<a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
-  <h1>Talk to code, stay in the Flow.</h1>
+     <h1>Talk to code, stay in the Flow.</h1>
   <h2>Flow is built for devs who live in their tools. Speak and give more context, get better results.</h2>
-  </a>
 </div>
+ </a>
 
 ---
 
