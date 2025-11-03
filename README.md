@@ -37,7 +37,7 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
            title="Wispr Flow" />
     </picture>
 </a>
-<a>
+<a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
   <h1>Talk to code, stay in the Flow.</h1>
   <h2>Flow is built for devs who live in their tools. Speak and give more context, get better results.</h2>
   </a>
