@@ -71,7 +71,7 @@ Every contribution, big or small, makes a huge difference. Thank you for your su
 - [Object-Oriented Programming in JavaScript](https://www.youtube.com/watch?v=M_wYYE2F5os&t=472s&ab_channel=Washera)
 
 ---
-
+<!--
 ## Technologies I Teach and Use
 
 ### Frontend
@@ -89,7 +89,6 @@ Every contribution, big or small, makes a huge difference. Thank you for your su
   <img src ="./images/gatsby.svg" alt="Gatsby" width="4%" title='Gatsby'/>
 </div>
 
-<!--
 ### Backend
 
 <div>
@@ -115,7 +114,7 @@ Every contribution, big or small, makes a huge difference. Thank you for your su
   <img src ="./images/nodemon.svg" alt="Nodemon" width="5%" title='Nodemon'/>
 </div>
 --!>
-
+---
 ## Upcoming Challenges
 
 - **30DaysOfTypeScript**
