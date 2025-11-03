@@ -14,7 +14,6 @@ I’m an **educator, full-stack developer, and content creator** passionate abou
 💡 Sponsors are welcome to join me in **empowering the next generation of developers** while gaining visibility in a vibrant, global tech community.
 
 👉 Connect with me: [GitHub](https://github.com/Asabeneh) · [LinkedIn](https://www.linkedin.com/in/asabeneh) · [Twitter](https://twitter.com/Asabeneh)  
-🎥 Tutorials: [YouTube – Washera](https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw)
 
 ---
 
@@ -62,12 +61,8 @@ Every contribution, big or small, makes a huge difference. Thank you for your su
 ## Featured YouTube Videos
 
 - [Python in 3 Hours](https://www.youtube.com/watch?v=OCCWZheOesI&ab_channel=Washera)
-- [DOM – Document Object Model](https://www.youtube.com/watch?v=eYcB-1SCVMQ&ab_channel=Washera)
-- [React – Complete Guide](https://www.youtube.com/watch?v=7DxegtOZSVE&list=PLbvhRHYrmshT4whicja6Njt6MLPK4tWOK&ab_channel=Washera)
+- [Python in 10 hours](https://www.youtube.com/watch?v=ByXRKZtW0lw)
 - [Python for Absolute Beginners](https://www.youtube.com/watch?v=LHRn9NMNBCQ&list=PLbvhRHYrmshRFWUrS6x2LgeE4CMte_m5K&ab_channel=Washera)
-- [Git and GitHub Tutorial](https://www.youtube.com/watch?v=9cCApTLb_Io&list=PLbvhRHYrmshSCAHZbibqh_px_LxnU54dk&ab_channel=Washera)
-- [JavaScript Array and Object Destructuring](https://www.youtube.com/watch?v=GItIBTI1jv8&t=2s&ab_channel=Washera)
-- [Object-Oriented Programming in JavaScript](https://www.youtube.com/watch?v=M_wYYE2F5os&t=472s&ab_channel=Washera)
 
 ---
 <!--
