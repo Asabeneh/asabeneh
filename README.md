@@ -6,12 +6,11 @@ I’m an **educator, full-stack developer, and content creator** passionate abou
 
 🚀 Popular projects:
 
-* [30DaysOfJavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-* [30DaysOfReact](https://github.com/Asabeneh/30-Days-Of-React)
-* [30DaysOfPython](https://github.com/Asabeneh/30-Days-Of-Python)
-* [10DaysOfGitAndGitHub](https://github.com/Asabeneh/10-Days-Of-Git-and-GitHub)
+* [30Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+* [30Days of React](https://github.com/Asabeneh/30-Days-Of-React)
+* [30Daysof Python](https://github.com/Asabeneh/30-Days-Of-Python)
 
-👉 **“I’ve empowered millions of learners worldwide to gain practical coding skills 🚀. Discover their journeys in this [testimonial](https://www.asabeneh.com/).”**
+👉 **I’ve empowered millions of learners worldwide to gain practical coding skills 🚀. Discover their journeys in this [testimonial](https://www.asabeneh.com/).**
 💡 Sponsors are welcome to join me in **empowering the next generation of developers** while gaining visibility in a vibrant, global tech community.
 
 👉 Connect with me: [GitHub](https://github.com/Asabeneh) · [LinkedIn](https://www.linkedin.com/in/asabeneh) · [Twitter](https://twitter.com/Asabeneh)  
