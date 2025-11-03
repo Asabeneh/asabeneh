@@ -89,6 +89,7 @@ Every contribution, big or small, makes a huge difference. Thank you for your su
   <img src ="./images/gatsby.svg" alt="Gatsby" width="4%" title='Gatsby'/>
 </div>
 
+<!--
 ### Backend
 
 <div>
@@ -112,7 +113,7 @@ Every contribution, big or small, makes a huge difference. Thank you for your su
   <img src ="./images/webpack.svg" alt="Webpack" width="5%" title='Webpack'/>
   <img src ="./images/nodemon.svg" alt="Nodemon" width="5%" title='Nodemon'/>
 </div>
-
+--!>
 ---
 
 ## Upcoming Challenges
