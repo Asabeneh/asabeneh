@@ -13,7 +13,9 @@ I’m an **educator, full-stack developer, and content creator** passionate abou
 👉 **I’ve empowered millions of learners worldwide to gain practical coding skills 🚀. Discover their journeys in this [testimonial](https://www.asabeneh.com/).**  
 💡 Sponsors are welcome to join me in **empowering the next generation of developers** while gaining visibility in a vibrant, global tech community.
 
-👉 Connect with me: [GitHub](https://github.com/Asabeneh) · [LinkedIn](https://www.linkedin.com/in/asabeneh) · [Twitter](https://twitter.com/Asabeneh)  
+## Jobs
+
+If you’re exploring new opportunities, check out available positions at [Meror AI Lab](https://work.mercor.com?referralCode=1e7e383a-00e6-4568-b6e9-8688a825a0d0&utm_source=referral&utm_medium=share&utm_campaign=platform_referral).
 
 ---
 
@@ -130,3 +132,4 @@ Every contribution, big or small, makes a huge difference. Thank you for your su
 <small><em>I’m a lifelong learner with a passion for teaching and inspiring others.</em></small>
 
 ---
+👉 Connect with me: [GitHub](https://github.com/Asabeneh) · [LinkedIn](https://www.linkedin.com/in/asabeneh) · [Twitter](https://twitter.com/Asabeneh)  
