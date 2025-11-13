@@ -2,8 +2,13 @@
 
 ## I'm Asabeneh S. Yetayeh
 
-I’m an **educator, full-stack developer, and content creator** passionate about making programming accessible to everyone. My GitHub is packed with **free, high-quality learning resources** on web development, Python, data analysis, and more.
+I’m an **educator, full-stack engineer, and content creator** passionate about making programming accessible to everyone. My GitHub is packed with **free, high-quality learning resources** on web development, Python, data analysis, and more.
 
+**Sponsors are welcome to join me in empowering over ~350K developers biweekly worldwide** while gaining visibility in a vibrant, global tech community.
+
+---
+
+## 🚀 Popular Projects & Impact
 
 | Project                                                                    | GitHub Stars | Notes                           | Traffic / Reach      |
 | -------------------------------------------------------------------------- | ------------ | ------------------------------- | -------------------- |
@@ -13,15 +18,17 @@ I’m an **educator, full-stack developer, and content creator** passionate abou
 
 **Millions of developers worldwide** have benefited from these resources, and the combined **biweekly reach of ~352K** demonstrates strong engagement and consistent traffic.
 
-Discover what they said in this **[testimonial](https://www.asabeneh.com/)** page. 
+Discover what learners say in this **[testimonial](https://www.asabeneh.com/)** page.
 
-💡 Sponsors are welcome to join me in **empowering the next generation of developers** while gaining visibility in a vibrant, global tech community.
+---
 
-## Jobs
+## 💡 Why Sponsor Me?
 
-If you’re exploring new opportunities, check out the wide range of positions available at [Meror AI Lab](https://work.mercor.com?referralCode=1e7e383a-00e6-4568-b6e9-8688a825a0d0&utm_source=referral&utm_medium=share&utm_campaign=platform_referral). They offer roles across multiple sectors and disciplines, covering a broad spectrum of fields.
+* Reach an engaged, growing audience of **developers and learners** worldwide
+* Feature your brand in **high-visibility educational projects**
+* Collaborate on **tutorials, webinars, or community showcases**
+* Support **free, accessible learning resources** that empower the next generation of developers
 
-[![Mercor Logo](./images/mercor_log.png)](https://work.mercor.com?referralCode=1e7e383a-00e6-4568-b6e9-8688a825a0d0&utm_source=referral&utm_medium=share&utm_campaign=platform_referral)
 ---
 
 ## 💖 Sponsors
@@ -64,6 +71,13 @@ You can support this project by becoming a sponsor on **[GitHub Sponsors](https:
 Every contribution, big or small, makes a huge difference. Thank you for your support! 🌟
 
 ---
+## Jobs
+
+If you’re exploring new opportunities, check out the wide range of positions available at [Meror AI Lab](https://work.mercor.com?referralCode=1e7e383a-00e6-4568-b6e9-8688a825a0d0&utm_source=referral&utm_medium=share&utm_campaign=platform_referral). They offer roles across multiple sectors and disciplines, covering a broad spectrum of fields.
+
+[![Mercor Logo](./images/mercor_log.png)](https://work.mercor.com?referralCode=1e7e383a-00e6-4568-b6e9-8688a825a0d0&utm_source=referral&utm_medium=share&utm_campaign=platform_referral)
+---
+
 
 ## Featured YouTube Videos
 
@@ -71,7 +85,6 @@ Every contribution, big or small, makes a huge difference. Thank you for your su
 - [Python in 10 hours](https://www.youtube.com/watch?v=ByXRKZtW0lw)
 - [Python for Absolute Beginners](https://www.youtube.com/watch?v=LHRn9NMNBCQ&list=PLbvhRHYrmshRFWUrS6x2LgeE4CMte_m5K&ab_channel=Washera)
 
----
 <!--
 ## Technologies I Teach and Use
 
