@@ -4,19 +4,24 @@
 
 I’m an **educator, full-stack developer, and content creator** passionate about making programming accessible to everyone. My GitHub is packed with **free, high-quality learning resources** on web development, Python, data analysis, and more.
 
-🚀 Popular projects:
 
-* [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-* [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React)
-* [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+| Project                                                                    | GitHub Stars | Notes                           | Traffic / Reach      |
+| -------------------------------------------------------------------------- | ------------ | ------------------------------- | -------------------- |
+| [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | ~45.6 k      | Step-by-step JS challenge       | ~124K biweekly views |
+| [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)         | ~52.2 k      | Beginner to pro Python learning | ~150K biweekly views |
+| [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React)           | ~27.2 k      | React fundamentals & projects   | ~78K biweekly views  |
 
-👉 **I’ve empowered millions of learners worldwide to gain practical coding skills 🚀. Discover their journeys in this [testimonial](https://www.asabeneh.com/).**  
+**Millions of developers worldwide** have benefited from these resources, and the combined **biweekly reach of ~352K** demonstrates strong engagement and consistent traffic.
+
+Discover what they said in this **[testimonial](https://www.asabeneh.com/)** page. 
+
 💡 Sponsors are welcome to join me in **empowering the next generation of developers** while gaining visibility in a vibrant, global tech community.
 
 ## Jobs
 
-If you’re exploring new opportunities, check out available positions at [Meror AI Lab](https://work.mercor.com?referralCode=1e7e383a-00e6-4568-b6e9-8688a825a0d0&utm_source=referral&utm_medium=share&utm_campaign=platform_referral).
+If you’re exploring new opportunities, check out the wide range of positions available at [Meror AI Lab](https://work.mercor.com?referralCode=1e7e383a-00e6-4568-b6e9-8688a825a0d0&utm_source=referral&utm_medium=share&utm_campaign=platform_referral). They offer roles across multiple sectors and disciplines, covering a broad spectrum of fields.
 
+[![Mercor Logo](./images/mercor_log.png)](https://work.mercor.com?referralCode=1e7e383a-00e6-4568-b6e9-8688a825a0d0&utm_source=referral&utm_medium=share&utm_campaign=platform_referral)
 ---
 
 ## 💖 Sponsors
