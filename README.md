@@ -66,7 +66,7 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
 <hr/>
 
 <div align="center">
-  <a href=" https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
+  <a href="https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
     <picture>
       <!-- Dark mode -->
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/petrosky-logo-white.png" />
