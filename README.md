@@ -12,9 +12,9 @@ I’m an **educator, full-stack engineer, and content creator** passionate about
 
 | Project                                                                    | GitHub Stars | Notes                           | Traffic / Reach      |
 | -------------------------------------------------------------------------- | ------------ | ------------------------------- | -------------------- |
-| [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | ~45.6 k      | Step-by-step JS challenge       | ~124K biweekly views |
-| [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)         | ~52.2 k      | Beginner to pro Python learning | ~150K biweekly views |
-| [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React)           | ~27.2 k      | React fundamentals & projects   | ~78K biweekly views  |
+| [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 45.6 k      | Step-by-step JS challenge       | ~124K biweekly views |
+| [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)         | 52.3 k      | Beginner to pro Python learning | ~150K biweekly views |
+| [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React)           | 27.2 k      | React fundamentals & projects   | ~78K biweekly views  |
 
 **Millions of developers worldwide** have benefited from these resources, and the combined **biweekly reach of ~352K** demonstrates strong engagement and consistent traffic.
 
@@ -35,7 +35,7 @@ Discover what learners say in this **[testimonial](https://www.asabeneh.com/)** 
 
 Thanks to our amazing sponsors for supporting my open-source work and the **30 Days of Challenge** series!
 
-### Current Sponsor
+### Current Sponsors
 
  <div align="center">
   <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
@@ -59,6 +59,34 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
   <h2>
     <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
       Flow is built for devs who live in their tools. Speak and give more context, get better results.
+    </a>
+  </h2>
+</div>
+
+<hr/>
+
+<div align="center">
+  <a href=" https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <!-- Dark mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/petrosky-logo-white.png" />
+      <!-- Light mode (fallback) -->
+      <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/petrosky-logo-white.png"
+           width="400px"
+           alt="Petrosky Logo"
+           title="Petrosky" />
+    </picture>
+  </a>
+
+  <h1>
+    <a href=" https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
+      A hosting for your entire journey!
+    </a>
+  </h1>
+
+  <h2>
+    <a href=" https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
+      Affordable VPS Hosting Services For All Your  Needs
     </a>
   </h2>
 </div>
