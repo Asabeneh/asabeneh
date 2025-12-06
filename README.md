@@ -4,8 +4,6 @@
 
 I’m an **educator, full-stack engineer, and content creator** passionate about making programming accessible to everyone. My GitHub is packed with **free, high-quality learning resources** on web development, Python, data analysis, and more.
 
-**Sponsors are welcome to join me in empowering over ~350K developers biweekly worldwide** while gaining visibility in a vibrant, global tech community.
-
 ---
 
 ## 🚀 Popular Projects & Impact
@@ -18,7 +16,10 @@ I’m an **educator, full-stack engineer, and content creator** passionate about
 
 **Millions of developers worldwide** have benefited from these resources, and the combined **biweekly reach of ~352K** demonstrates strong engagement and consistent traffic.
 
-Discover what learners say in this **[testimonial](https://www.asabeneh.com/)** page.
+Discover what learners say in this **[testimonial](https://www.asabeneh.com/)** page. 
+
+## Upcoming Live Programming courses
+- [DevOsome](https://www.devosome.com/)
 
 ---
 
@@ -99,12 +100,13 @@ You can support this project by becoming a sponsor on **[GitHub Sponsors](https:
 Every contribution, big or small, makes a huge difference. Thank you for your support! 🌟
 
 ---
+<!--
 ## Jobs
 
 If you’re exploring new opportunities, check out the wide range of positions available at [Meror AI Lab](https://work.mercor.com?referralCode=1e7e383a-00e6-4568-b6e9-8688a825a0d0&utm_source=referral&utm_medium=share&utm_campaign=platform_referral). They offer roles across multiple sectors and disciplines, covering a broad spectrum of fields.
 
 [![Mercor Logo](./images/mercor_log.png)](https://work.mercor.com?referralCode=1e7e383a-00e6-4568-b6e9-8688a825a0d0&utm_source=referral&utm_medium=share&utm_campaign=platform_referral)
----
+-->
 
 
 ## Featured YouTube Videos
@@ -160,6 +162,7 @@ If you’re exploring new opportunities, check out the wide range of positions a
 ---
 
 
+<!--
 ## Upcoming Challenges
 
 - **30DaysOfTypeScript**
@@ -167,7 +170,7 @@ If you’re exploring new opportunities, check out the wide range of positions a
 - **100DaysOfWeb**
 - **10DaysOfBashing**
 
-
+-->
 ---
 
 | <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asabeneh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asabeneh's github stats" /></a> | <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asabeneh&layout=compact&theme=buefy&hide_border=true" /></a> |
