@@ -38,34 +38,6 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
 
 ### Current Sponsors
 
- <div align="center">
-  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <!-- Dark mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-Logo-white.png" />
-      <!-- Light mode (fallback) -->
-      <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-logo.png"
-           width="400px"
-           alt="Wispr Flow Logo"
-           title="Wispr Flow" />
-    </picture>
-  </a>
-
-  <h1>
-    <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
-      Talk to code, stay in the Flow.
-    </a>
-  </h1>
-
-  <h2>
-    <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
-      Flow is built for devs who live in their tools. Speak and give more context, get better results.
-    </a>
-  </h2>
-</div>
-
-<hr/>
-
 <div align="center">
   <a href="https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
     <picture>
