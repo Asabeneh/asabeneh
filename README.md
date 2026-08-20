@@ -32,53 +32,6 @@ Discover what learners say in this **[testimonial](https://www.asabeneh.com/)** 
 
 ---
 
-## 💖 Sponsors
-
-Thanks to our amazing sponsors for supporting my open-source work and the **30 Days of Challenge** series!
-
-### Current Sponsors
-<!--
-<div align="center">
-  <a href="https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <!-- Dark mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/petrosky-logo-white.png" />
-      <!-- Light mode (fallback) -->
-      <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/petrosky-logo-black.png"
-           width="400px"
-           alt="Petrosky Logo"
-           title="Petrosky" />
-    </picture>
-  </a>
-
-  <h1>
-    <a href="https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
-      A hosting for your entire journey!
-    </a>
-  </h1>
-
-  <h2>
-    <a href="https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
-      Affordable VPS Hosting Services For All Your  Needs
-    </a>
-  </h2>
-</div>
--->
----
-
-### 🙌 Become a Sponsor
-
-You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/asabeneh)** or through [supporting me on PayPal](https://www.paypal.me/asabeneh).
-Every contribution, big or small, makes a huge difference. Thank you for your support! 🌟
-
----
-<!--
-## Jobs
-
-If you’re exploring new opportunities, check out the wide range of positions available at [Meror AI Lab](https://work.mercor.com?referralCode=1e7e383a-00e6-4568-b6e9-8688a825a0d0&utm_source=referral&utm_medium=share&utm_campaign=platform_referral). They offer roles across multiple sectors and disciplines, covering a broad spectrum of fields.
-
-[![Mercor Logo](./images/mercor_log.png)](https://work.mercor.com?referralCode=1e7e383a-00e6-4568-b6e9-8688a825a0d0&utm_source=referral&utm_medium=share&utm_campaign=platform_referral)
--->
 
 
 ## Featured YouTube Videos
