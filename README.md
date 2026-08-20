@@ -37,7 +37,7 @@ Discover what learners say in this **[testimonial](https://www.asabeneh.com/)** 
 Thanks to our amazing sponsors for supporting my open-source work and the **30 Days of Challenge** series!
 
 ### Current Sponsors
-
+<!--
 <div align="center">
   <a href="https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
     <picture>
@@ -63,7 +63,7 @@ Thanks to our amazing sponsors for supporting my open-source work and the **30 D
     </a>
   </h2>
 </div>
-
+-->
 ---
 
 ### 🙌 Become a Sponsor
